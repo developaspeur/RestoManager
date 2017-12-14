@@ -1,0 +1,19 @@
+{
+  "name": "restomanager2",
+  "version": "1.0.0",
+  "description": "Plateform saas de gestion de restaurants",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developaspeur/RestoManager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developaspeur/RestoManager/issues"
+  },
+  "homepage": "https://github.com/developaspeur/RestoManager#readme"
+}
